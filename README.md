@@ -2,7 +2,7 @@
 
 Hi, I'm Bruce 👋!
 
-Computing Science Student at SFU
+Computing Science Student at [SFU](https://www.sfu.ca/)
 
 ## A little more about me...
 
