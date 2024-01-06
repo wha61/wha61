@@ -1,6 +1,6 @@
 # Wen-Xiang He (Bruce)
 
-Hi, I'm Bruce 👋!
+Hi, I'm Bruce ![DEMO](handwaving.gif)!
 
 Computing Science Student at [Simon Fraser University](https://www.sfu.ca/)
 
