@@ -1,6 +1,4 @@
-# Wen-Xiang He (Bruce)
-
-Hi, I'm Bruce <img src="handwaving.gif" alt="DEMO" width="50" height="50" />!
+# Hi <img src="handwaving.gif" alt="DEMO" width="40" height="40" />, I'm Wen-Xiang He (Bruce)
 
 Computing Science Student at [Simon Fraser University](https://www.sfu.ca/)
 
