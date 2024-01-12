@@ -1,6 +1,6 @@
 # Hi <img src="handwaving.gif" alt="DEMO" width="40" height="40" />, I'm Wen-Xiang He (Bruce)
 
-Computing Science Student at [Simon Fraser University](https://www.sfu.ca/)
+*Computing Science Student* @ [Simon Fraser University](https://www.sfu.ca/)
 
 ## A little more about me...
 
