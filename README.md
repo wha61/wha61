@@ -26,7 +26,7 @@ class SoftwareDeveloper:
         print("Thanks for dropping by, feel free to connect with me!")
 
     def working_on(self):
-        print("Currently working on my project.")
+        print("Currently on my first coop term.")
 
     def introduction(self):
         self.say_hi()
