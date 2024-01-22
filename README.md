@@ -14,11 +14,12 @@ class SoftwareDeveloper:
         self.name = "Wenxiang He"
         self.role = ""
         self.skills = {
-            "Full Stack Development" : ['HTML5/CSS/JavaScript', 'React', 'Angular', 'Umi', 'C#', 'Node.js', 'Express', 'ASP.NET', 'ABP', 'MySQL', 'SQL Server', 'MongoDB']
+            "Full Stack Development" : ['HTML5/CSS/JavaScript', 'React', 'Angular', 'Umi',, 'Node.js', 'Express',
+                                         'ASP.NET', 'ABP', 'MySQL', 'SQL Server', 'MongoDB']
             "Android Mobile Development" : ['Java', 'Kotlin', 'Android SDK']
-            "language" : ['Python', 'C++', 'C', 'Java', 'JavaScript', 'HTML', 'CSS', 'MySQL', 'SQL Server', 'Kotlin'],
+            "language" : ['Python', 'C++', 'C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS', 'MySQL', 'SQL Server', 'Kotlin'],
             "framework" : ['React', 'Node.js', 'Angular', 'Bootstrap'],
-            "tools" : ['VSCode', 'Visual Studio', 'AndroidStudio', 'Intellij IDEA', 'Git', 'Linux', 'Windows', 'Docker', ]
+            "tools" : ['VSCode', 'Visual Studio', 'AndroidStudio', 'Intellij IDEA', 'Git', 'Linux', 'Windows', 'Docker', 'GCP']
         }
 
     def say_hi(self):
