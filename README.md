@@ -1,4 +1,4 @@
-# Hi <img src="handwaving.gif" alt="DEMO" width="40" height="40" />, I'm Wen-Xiang He (Bruce)
+# Hi <img src="handwaving.gif" alt="DEMO" width="40" height="40" />, I'm Wenxiang He (Bruce)
 
 *Computing Science Student* @ [Simon Fraser University](https://www.sfu.ca/)
 
