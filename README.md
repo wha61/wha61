@@ -14,11 +14,11 @@ class SoftwareDeveloper:
         self.name = "Wenxiang He"
         self.role = ""
         self.skills = {
-            "Full Stack Development" : ['HTML5/CSS/JavaScript', 'React', 'Angular', 'Umi',, 'Node.js', 'Express',
-                                         'ASP.NET', 'ABP', 'MySQL', 'SQL Server', 'MongoDB']
-            "Android Mobile Development" : ['Java', 'Kotlin', 'Android SDK']
-            "language" : ['Python', 'C++', 'C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS', 'MySQL', 'SQL Server', 'Kotlin'],
-            "framework" : ['React', 'Node.js', 'Angular', 'Bootstrap'],
+            "Full Stack Development" : ['React', 'Angular', 'Umi',, 'Node.js', 'Express', 'Bootstrap',
+                                         'ASP.NET', 'ABP', 'MySQL', 'MS SQL Server', 'Postgres SQL', 'MongoDB']
+            "Android Mobile Development" : ['MVVM', 'Android SDK']
+            "Machine Learning" : ['Supervised & Unsupervised Learning', 'Optimization Algorithms']
+            "Programming language" : ['Python', 'C++', 'C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS', 'SQL', 'Kotlin'],
             "tools" : ['VSCode', 'Visual Studio', 'AndroidStudio', 'Intellij IDEA', 'Git', 'Linux', 'Windows', 'Docker', 'GCP']
         }
 
