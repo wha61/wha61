@@ -14,7 +14,7 @@ class SoftwareDeveloper:
         self.name = "Wenxiang He"
         self.role = ""
         self.skills = {
-            "Full Stack Development" : ['React', 'Angular', 'Umi',, 'Node.js', 'Express', 'Bootstrap',
+            "Full Stack Development" : ['React', 'Angular', 'Umi', 'Node.js', 'Express', 'Bootstrap',
                                          'ASP.NET', 'ABP', 'MySQL', 'MS SQL Server', 'Postgres SQL', 'MongoDB']
             "Android Mobile Development" : ['MVVM', 'Android SDK']
             "Machine Learning" : ['Supervised & Unsupervised Learning', 'Optimization Algorithms']
